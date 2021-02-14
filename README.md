@@ -8,3 +8,13 @@ him on Valentine's Day with some shapes of hearts
 
 AR:
 اكتب الاسم الذي تريده وستخرج لك الاداة تهنئه بعيد الحب مع بعض الاشكال للقلوب
+
+pkg update
+
+pkg upgrade
+
+cd Love
+
+python love.py
+
+ENJOY❤
